@@ -14,8 +14,8 @@
   <img align="center" alt="Tiago-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tiago-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tiago-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Tiago-pic" height="150" style="border-radius:50px;"
-<!--        src="https://cdn.discordapp.com/attachments/941722116074659863/941722240540606514/download20220205124422.png"> -->
+<!--   <img align="right" alt="Tiago-pic" height="150" style="border-radius:50px;"
+        src="https://cdn.discordapp.com/attachments/941722116074659863/941722240540606514/download20220205124422.png">  -->
 </div>
  
  
